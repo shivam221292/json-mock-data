@@ -5,45 +5,45 @@
       "id" : 1,
       "questionText": "What is the square-root of -1?",
       "options": [
-          "a": "Undefined",
-          "b": -1,
-          "c": "i",
-          "d": "None of the above"
+        {"a": "Undefined"},
+        {"b": -1},
+        {"c": "i"},
+        {"d": "None of the above"}
         ],
-      "multiSelect" = false
+      "multiSelect" : false
     },
     {
       "id" : 2,
       "questionText": "If f('Pen') = 'Shq', f('Pent') = 'Tirx', then f('Pencil') = ?",
       "options": [
-          "a": "Shqtrix",
-          "b": "Vktior",
-          "c": "Tirflo",
-          "d": "None of the above"
+        {"a": "Shqtrix"},
+        {"b": "Vktior"},
+        {"c": "Tirflo"},
+        {"d": "None of the above"}
         ],
-      "multiSelect" = false
+      "multiSelect" : false
     },
     {
       "id" : 3,
       "questionText": "What is the square-root of 16?",
       "options": [
-          "a": 2,
-          "b": 4,
-          "c": 1.414,
-          "d": "None of the above"
+        {"a": 2},
+        {"b": 4},
+        {"c": "1.414"},
+        {"d": "None of the above"}
         ],
-      "multiSelect" = false
+      "multiSelect" : false
     },
     {
       "id" : 4,
       "questionText": "What is the square-root of 1600?",
       "options": [
-          "a": -40,
-          "b": 40,
-          "c": 1.414,
-          "d": "None of the above"
+        {"a": -40},
+        {"b": 40},
+        {"c": 1.414},
+        {"d": "None of the above"}
         ],
-      "multiSelect" = true
+      "multiSelect" : true
     }
   ]
 }
